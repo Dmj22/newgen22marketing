@@ -13,3 +13,4 @@ i got rid of some <div> and added <section>
   i detailed which parts of semantic html
   i added style headers in to my css
   file:///Users/quanjordan/Desktop/newgen22marketing/newgen22marketing.html#online-reputation-management
+https://dmj22.github.io/newgen22marketing/
